@@ -1,0 +1,7 @@
+{
+  "name": "SMC Voice Assistant",
+  "description": "A conversational voice agent for SMC support using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
